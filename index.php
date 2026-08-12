@@ -91,6 +91,10 @@
         <a href="http://localhost/ME%20Software/milk-can-inventory/" class="btn inventory">
             Milk Can Inventory
         </a>
+
+        <a href="http://localhost/ME%20Software/repairing_can_project/" class="btn">
+            Repairing Can
+        </a>
     </div>
 
 </div>

@@ -1,0 +1,21 @@
+body {
+    background: #f5f7fa;
+}
+
+.card {
+    border: 0;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+}
+
+.stat-card h3 {
+    margin-top: 8px;
+    margin-bottom: 0;
+}
+
+.table th {
+    white-space: nowrap;
+}
+
+.stage-done {
+    background: #eaf7ee;
+}
